@@ -11,7 +11,7 @@
 <img width="515" height="326" alt="image" src="https://github.com/user-attachments/assets/5e01a721-943c-423b-8a6f-1a2971be5032" />
 
 ### 3. Проверим работу функции
-<img width="558" height="763" alt="image" src="https://github.com/user-attachments/assets/299b5b8d-9a77-495a-816b-8e0c46c72a55" />
+<img width="588" height="366" alt="image" src="https://github.com/user-attachments/assets/20f30d8c-e70b-4536-a9d0-62f8e3ab146d" />
 
 ### 4. 
 
